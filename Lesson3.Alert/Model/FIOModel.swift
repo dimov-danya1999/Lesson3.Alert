@@ -11,5 +11,4 @@ struct FIOModel {
     var family: String?
     var name: String?
     var father: String?
-    
 }
